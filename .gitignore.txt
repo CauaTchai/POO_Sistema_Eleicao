@@ -1,0 +1,11 @@
+*.class
+.mtj.tmp/
+*.custom
+*.gradle
+/bin/
+.metadata/
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db
